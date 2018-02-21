@@ -24,6 +24,6 @@ setup(name='energy_py',
                 'energy_py.experiments',
                 'energy_py.scripts'],
 
-      package_data = {'':['*.csv']},
+      package_data={'': ['*.csv']},
       install_requires=[]
       )
